@@ -1,0 +1,24 @@
+diff --git a/evdev.xml b/evdev.xml
+index ad4df7c..5d1d989 100644
+--- a/evdev.xml
++++ b/evdev.xml
+@@ -6301,6 +6301,19 @@
+         </variant>
+       </variantList>
+     </layout>
++    <layout>
++      <configItem>
++        <name>ct</name>
++        <shortDescription>ca</shortDescription>
++        <description>Catalan</description>
++        <countryList>
++          <iso3166Id>CT</iso3166Id>
++        </countryList>
++        <languageList>
++          <iso639Id>cat</iso639Id>
++        </languageList>
++      </configItem>
++    </layout>
+     <layout>
+       <configItem>
+         <name>latam</name>

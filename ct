@@ -1,0 +1,4 @@
+default partial alphanumeric_keys
+xkb_symbols "basic" {
+    include "es(cat)"
+};
